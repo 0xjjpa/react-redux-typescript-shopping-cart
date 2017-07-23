@@ -1,0 +1,23 @@
+.ShoppingCart {
+    margin: 0 auto;
+    text-align: center;
+    padding: 10px;
+}
+
+.ShoppingCart__list {
+    margin: 0;
+    padding: 0;
+}
+
+.ShoppingCart__listItem {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    width: 60%;
+    margin: 0 auto;
+}
+
+.ShoppingCart__controls {
+    margin-left: 10px;
+    display: inline-block;
+}

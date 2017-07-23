@@ -1,0 +1,13 @@
+.Receipt {
+    margin: 10px;
+    font: normal 10pt 'Courier New';
+}
+
+.Receipt__list {
+    margin: 0;
+    padding: 0;
+}
+
+.Receipt__listItem {
+    list-style: none;
+}
